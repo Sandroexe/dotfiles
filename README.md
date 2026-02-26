@@ -10,6 +10,9 @@ Willkommen in meinem persönlichen Dotfiles-Repository. Hier speichere und verwa
 
 Dieses Setup ist auf maximale Effizienz, ein sauberes Dark-Mode/Neon-UI und einen reibungslosen Workflow ausgelegt.
 
+<img width="704" height="431" alt="image" src="https://github.com/user-attachments/assets/1a906255-779f-4a4a-bc36-e855db54e297" />
+
+
 ## 🖥️ System Specs (Current Status)
 
 | Komponente | Setup |
